@@ -4,7 +4,7 @@
 
 ### 😎 About Me
 
-👨🏽‍💻 I'm currently Python Software Engineer at [**Toman**](https://tomanpay.net/).</br>
+👨🏽‍💻 I'm currently NodeJS Software Engineer at [**Toman**](https://tomanpay.net/).</br>
 🌱 I’m currently learning [**Go**](https://go.dev/) programming language.</br>
 🔭 I'm enthusiast of Network Technologies.<br/>
 📫 If You want to reach me just click [**here**](mailto:nematimahdi88@gmail.com)!
